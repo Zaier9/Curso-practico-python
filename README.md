@@ -40,3 +40,22 @@ En programación estos operadores son muy similares a nuestras clases básicas d
 Los operadores son contextuales, dependen del tipo de valor. Un valor es la representación de una entidad que puede ser manipulada por un programa.
 
 Podemos conocer el tipo del valor con type() y nos devolverá algo similar a <class 'init'>, <class 'float'>, <class 'str'>. Dependiendo del tipo los operadores van a funcionar de manera diferente.
+
+# Variables y Expresiones
+
+Una variable es simplemente el contenedor de un valor. Es una forma de decirle a la computadora de que nos guarde un valor para luego usarlo.
+
+Python es un lenguaje dinámico, este concepto de privado y público se genera por convenciones del lenguaje. En programación el signo = significa asignación.
+
+Si una variable esta en mayúscula, usualmente se refiere a una constante, no debería reasignarse. Es una convención.
+
+Reglas de Variables:
+
+* Pueden contener números y letras
+* No deben comenzar con número
+* Múltiples palabras se unen con _
+* No se pueden utilizar palabras reservadas
+
+Expresiones son instrucciones para el interprete para evaluar la expresión. Los enunciados tienen efectos dentro del programa, como print que genera un output.
+
+PEMDAS = Paréntesis, Exponente, Multiplicación-División, Adición-Sustracción
