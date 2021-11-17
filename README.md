@@ -12,10 +12,10 @@ La estructura de un programa. Casi todos los programas tienen un input, output, 
 
 Objetivos del curso:
 
-    * Aprender a pensar como un Científico de la Computación
-    * Aprender a utilizar Python
-    * Entender las ventajas y desventajas de Python
-    * Aprender a construir una aplicación de línea de comandos.
+* Aprender a pensar como un Científico de la Computación
+* Aprender a utilizar Python
+* Entender las ventajas y desventajas de Python
+* Aprender a construir una aplicación de línea de comandos.
 
 # Por qué programar con Python?
 
@@ -34,9 +34,9 @@ python [nombre del archivo] para ejecutar nuestro programa
 
 En programación estos operadores son muy similares a nuestras clases básicas de matemáticas.
 
-    * //: Es división de entero, básicamente tiramos la parte decimal
-    * %: Es el residuo de la división, lo que te sobra.
-    * **: Exponente
+* //: Es división de entero, básicamente tiramos la parte decimal
+* %: Es el residuo de la división, lo que te sobra.
+* **: Exponente
 Los operadores son contextuales, dependen del tipo de valor. Un valor es la representación de una entidad que puede ser manipulada por un programa.
 
 Podemos conocer el tipo del valor con type() y nos devolverá algo similar a <class 'init'>, <class 'float'>, <class 'str'>. Dependiendo del tipo los operadores van a funcionar de manera diferente.
