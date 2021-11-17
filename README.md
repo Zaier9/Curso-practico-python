@@ -16,3 +16,16 @@ Objetivos del curso:
     * Aprender a utilizar Python
     * Entender las ventajas y desventajas de Python
     * Aprender a construir una aplicación de línea de comandos.
+
+# Por qué programar con Python?
+
+Python es uno de los mejores lenguajes para principiantes porque tiene una sintaxis clara, una gran comunidad y esto hace que el lenguaje sea muy amigable para los que están iniciando.
+
+Python esta diseñado para ser fácil de usar, a diferencia de otros lenguajes donde la prioridad es ser rápido y eficiente. Python no es de los lenguajes más rápidos, pero casi nunca importa.
+
+Es el tercer lenguaje, según Github, entre los más populares. En StackOverflow se comenta que es uno de los lenguajes que mayor popularidad esta obteniendo.
+
+““Python cuando podamos, C++ cuando necesitemos””
+
+python --version para conocer la versión que tenemos instalada
+python [nombre del archivo] para ejecutar nuestro programa
